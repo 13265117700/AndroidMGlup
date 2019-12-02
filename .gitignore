@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+npm-debug.log
+yarn-error.log
+.babelrc
+.browserslistrc
+node_modules
+src
+config.js
+package.json
+gulpfile.js
